@@ -24,17 +24,7 @@ The model's performance is evaluated using various metrics such as Mean Squared 
 
 ## Installation
 
-To run this project, you will need to install the required Python libraries. You can install them using pip. It is recommended to use a virtual environment.
-
-```bash
-# Create a virtual environment
-python -m venv env
-
-# Activate the virtual environment
-# On Windows
-.\env\Scripts\activate
-# On macOS/Linux
-source env/bin/activate
+To run this project, you will need to install the required Python libraries. You can install them using pip.
 
 # Install the required libraries
 pip install numpy pandas matplotlib scikit-learn
